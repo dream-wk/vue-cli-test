@@ -1,3 +1,4 @@
+<!-- 页面测试响应式字体和图片大小 -->
 <template>
   <div class="main">
     <div class="content">
